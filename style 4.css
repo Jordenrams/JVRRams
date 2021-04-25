@@ -1,0 +1,127 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+/*------navigation-----*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img {
+    height: 40px;
+    padding-left: 30px;
+
+}
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    float: right;
+    text-align: left;
+}
+
+#nav-bar ul li a:hover{
+    color: #000000!important;
+
+}
+.navbar{
+    background: #fff;
+    border-bottom: 2px solid black;
+}
+.navbar-toggler {
+    border: none!important;
+}
+.nav-link {
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+/*-------Footer------*/
+#footer {
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-wordpress {
+    margin: 3px;
+    color:#10a9da;
+}
+/*-----Kit Story-----*/
+#Media h1 {
+    text-align: center;
+    color: #555!important;
+    padding-bottom: 10px;
+}
+#Media h1::after {
+    content: '';
+    background: black;
+    display: block;
+    height: 3px;
+    width: 250px;
+    margin: 5px auto 5px;
+}
+#Media {
+    margin-bottom: 50px;
+}
+.Kit {
+    padding-top: 20px;
+}
+.Kat {
+    display: middle;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+iframe {
+    max-height: 800px;
+    max-width: 800px;
+}
+.Frame {
+max-height: 800px;
+max-width: 800px;
+display: block;
+border: solid black;
+margin-left: 318px;
+}
+#Framet {
+    max-width: 1500px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/nagy-arnold-cPIP9PcaqkA-unsplash.jpg);
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.But {
+    align-items: center;
+    text-align: center;
+}
+.btn {
+    height: 46px;
+    width: 318;
+}
+a.btn.btn-primary {
+    background-color:#555;
+    border-radius: 3px;
+    font-size: 23px;
+    display: inline-block;
+    transition: 0.5s;
+}
+a.btn.btn-primary:hover {
+    border-color: 1px solid #fff;
+    background-color: rgb(34, 31, 31);
+}
+
+.But h5 {
+  font-size: 23px;
+  color: #efefef;
+}
+
+#Pdf {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
