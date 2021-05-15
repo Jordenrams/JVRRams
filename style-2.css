@@ -69,7 +69,7 @@
 
 /*-----About Page-----*/
 .Rams {
-   height: 70%;
+   height: 40%;
    width: 80%; 
    object-fit: cover;
 }
@@ -82,7 +82,6 @@
 .col-md-7 {
     color: #555;
     padding-right: 50px;
-    max-height: 800px;
 }
 .container {
     display: flex;
