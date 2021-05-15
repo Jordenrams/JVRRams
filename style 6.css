@@ -169,3 +169,63 @@ a.rams:hover {
     padding-left: 350px;
     padding-right: 350px;
 }
+@media (max-device-width: 480px) {
+    #Itunes {
+    display: block;
+    max-width: 480px;
+    margin: 0%;
+    padding: 0%;
+        }
+        #Itunes1 {
+            display: block;
+            max-width: 480px;
+            margin: 0%;
+            padding: 0%;
+                }
+                #Itunes2 {
+                    display: block;
+                    max-width: 480px;
+                    margin: 0%;
+                    padding: 0%;
+                        }
+                        #Itunes3 {
+                            display: block;
+                            max-width: 480px;
+                            margin: 0%;
+                            padding: 0%;
+                                }
+                                #Itunes4 {
+                                    display: block;
+                                    max-width: 480px;
+                                    margin: 0%;
+                                    padding: 0%;
+                                        }
+                                        #Itunes5 {
+                                            display: block;
+                                            max-width: 480px;
+                                            margin: 0%;
+                                            padding: 0%;
+                                                }
+        .Mainframe {
+            display: block;
+            margin: 0%;
+            padding: 0%;
+            margin-left: 60%;
+
+
+        }
+        .framework {
+            margin: 0%;
+            padding: 0%; }
+
+            .btn {
+                width: 100%;
+                margin-left: 50%;
+                margin-bottom: 3%;
+            }
+
+    Iframe {
+    width: 120%;
+    height: 100%;
+    }
+}

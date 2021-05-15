@@ -125,3 +125,12 @@ a.btn.btn-primary:hover {
     margin-bottom: 40px;
     margin-top: 20px;
 }
+@media (max-device-width: 480px) {
+.Frame {
+ width: 100%;
+ margin: 0%;
+ padding: 0%;
+ margin-left: 10%;
+}
+
+}

@@ -304,13 +304,43 @@ blockquote::after {
     #Mcol {
     display: block;
     max-width: 480px;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0%;
+    padding: 0%;
         }
     .Mem {
         display: block;
+        margin: 0%;
+        padding: 0%;
+        }
+        .mjr {
+            margin: 0%;
+            padding: 0%;
+        }
+        .Ta {
+           margin: 0%;
+           margin-left: 3%;
+           padding: 0%;
+        }
+        .clasie {
+         text-align: center;
+         float: right;
+        }
+        .clasie img {
+            justify-content: right;
+            float: right;
+            padding: 0%;
+            margin: 0%;
         }
     Iframe {
     width: 120%;
+    height: 100%;
     }
+}
+@media (max-device-width: 480px) {
+.row1 {
+    margin: 0%;
+    padding: 0%;
+    margin-left: 25%;
+}
+
 }

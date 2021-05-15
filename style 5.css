@@ -228,3 +228,73 @@ iframe {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/JVR\ Rams.png);
     background-position: center;
 }
+@media (max-device-width: 480px) {
+    #Line1 {
+    display: block;
+    max-width: 480px;
+    margin: 0%;
+    padding: 0%;
+        }
+        #Line2 {
+            display: block;
+            max-width: 480px;
+            margin: 0%;
+            padding: 0%;
+                }
+                #Line3 {
+                    display: block;
+                    max-width: 480px;
+                    margin: 0%;
+                    padding: 0%;
+                        }
+                        #Line4 {
+                            display: block;
+                            max-width: 480px;
+                            margin: 0%;
+                            padding: 0%;
+                                }
+                                #Line5 {
+                                    display: block;
+                                    max-width: 480px;
+                                    margin: 0%;
+                                    padding: 0%;
+                                        }
+                                        #Line6 {
+                                            display: block;
+                                            max-width: 480px;
+                                            margin: 0%;
+                                            padding: 0%;
+                                                }
+                                                #Line7 {
+                                                    display: block;
+                                                    max-width: 480px;
+                                                    margin: 0%;
+                                                    padding: 0%;
+                                                        }
+    .Boss {
+        display: block;
+        margin: 0%;
+        padding: 0%;
+        }
+        .Base {
+            display: block;
+            margin: 0%;
+            padding: 0%;
+            margin-left: 55%;
+            width: 100%;
+        }
+        .iframe {
+            margin: 0%;
+            padding: 0%;
+            margin-bottom: 5%;
+            margin-top: 5%;
+        }
+    Iframe {
+    width: 120%;
+    height: 100%;}
+    
+    .iframe img {
+        margin-left: 23%;
+    }
+    }
+}
