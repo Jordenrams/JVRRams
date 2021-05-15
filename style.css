@@ -216,16 +216,20 @@ h1::after {
     background: #efefef;
 }
 .single-price {
-    margin: 10px auto;
+    margin: 10px auto 10px;
     display: inline;
     float: left;
-    width: 100%;
+    width: 110%;
     background-color: #fff;
     transition: 0.5s;
 }
 .single-price:hover {
     box-shadow: 0 2px 20px #333;
 }
+select#item-options {
+    width: 98%;
+}
+
 .price-head {
     background-color: #555;
     display: inline;
@@ -236,7 +240,7 @@ h1::after {
 }
 .price-head h2 {
     color: #fff;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     margin-bottom: 5px;
     padding: 5px;
@@ -286,9 +290,10 @@ ul li:last-child {
     background-color:#555;
     border-radius: 3px;
     display: inline-block;
-    font-size: 18px;
-    padding: 15px 50px;
+    font-size: 10px;
+    padding: 10px 30px;
     transition: 0.5s;
+}
 }
 .buy-btn:hover {
     border-color: 1px solid #fff;
@@ -417,4 +422,11 @@ blockquote::after {
 }
 .buy-btn {
     margin-bottom: 15px;
+    position: relative;
+}
+
+@media (max-width: 480px) {
+div.single-price {
+width: 120px;
+}
 }

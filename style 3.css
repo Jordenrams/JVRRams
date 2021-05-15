@@ -300,3 +300,17 @@ blockquote::after {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/headerpink.png);
     background-position: center;
 }
+@media (max-device-width: 480px) {
+    #Mcol {
+    display: block;
+    max-width: 480px;
+    margin-left: 15%;
+    margin-right: 15%;
+        }
+    .Mem {
+        display: block;
+        }
+    Iframe {
+    width: 120%;
+    }
+}

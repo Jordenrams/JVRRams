@@ -74,7 +74,6 @@
    object-fit: cover;
 }
 #JVRRams {
-    max-height: 800px;
     border-bottom-width: 300px;
     border-bottom: black solid 3px;
     border-bottom-color: black;
