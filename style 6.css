@@ -166,8 +166,8 @@ a.rams:hover {
 }
 .Kat {
     display: middle;
-    padding-left: 350px;
-    padding-right: 350px;
+    padding: 0%;
+    margin: 0%;
 }
 @media (max-device-width: 480px) {
     #Itunes {
@@ -210,7 +210,7 @@ a.rams:hover {
             display: block;
             margin: 0%;
             padding: 0%;
-            margin-left: 60%;
+        
 
 
         }
@@ -220,12 +220,11 @@ a.rams:hover {
 
             .btn {
                 width: 100%;
-                margin-left: 50%;
                 margin-bottom: 3%;
             }
 
     Iframe {
-    width: 120%;
+    width: 100%;
     height: 100%;
     }
 }
