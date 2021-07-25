@@ -357,6 +357,12 @@ blockquote::before {
     bottom: -15px;
     right: 5px;
 }
+blockquote b {
+    color: black;
+}
+blockquote #text {
+    color: black;
+}
 blockquote::after {
     content:'\201D';
     font-size: 50px;
@@ -390,7 +396,7 @@ blockquote::after {
     height: 50px;
 }
 ::placeholder {
-    color: #999 !important;
+    color: #999(87, 84, 84) !important;
 }
 .follow {
     background-color: #fff;

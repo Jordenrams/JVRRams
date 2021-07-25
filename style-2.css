@@ -69,7 +69,7 @@
 
 /*-----About Page-----*/
 .Rams {
-   height: 40%;
+   height: 60%;
    width: 80%; 
    object-fit: cover;
 }
@@ -94,6 +94,7 @@
     color: #efefef;
     font-size: 20px;
 }
+
 /*-------Footer------*/
 #footer {
     background: #333;
@@ -118,3 +119,6 @@ h2 {
      width: 235px;
      margin: 5px 0px 20px;
  }
+img.rams {
+    margin-top: 40px;
+}
