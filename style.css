@@ -294,7 +294,6 @@ ul li:last-child {
     padding: 10px 30px;
     transition: 0.5s;
 }
-}
 .buy-btn:hover {
     border-color: 1px solid #fff;
     background-color: lightgray;
@@ -434,7 +433,7 @@ blockquote::after {
     position: relative;
 }
 
-@media (max-width: 480px) {
+@media (max-device-width: 480px) {
 div.single-price {
 width: 120px;
 }

@@ -108,6 +108,13 @@
     margin-bottom: 100px;
 
 }
+.col-md-9 {
+    color: #555;
+    padding-right: 150px;
+    max-height: 1500px;
+    margin-bottom: 100px;
+
+}
 .container {
     display: flex;
 }
@@ -144,11 +151,21 @@ h2 {
      margin: 5px 0px 20px;
  }
 .Fire {
-
 height: 70%;
 width: 80%; 
 object-fit: cover;
 }
+.Fires {
+    height: 63%;
+    width: 200%; 
+    object-fit: cover;
+    }
+    .Firesa {
+        height: 80%;
+        width: 100%; 
+        object-fit: cover;
+        margin-left: -93px;
+        }
 h3 {
     padding-top: 10px;
      color: #555 !important;
@@ -163,3 +180,4 @@ h3 {
      width: 220px;
      margin: 5px 0px 20px;
  }
+ @media (max-device-width: 480px) {}

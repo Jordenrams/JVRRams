@@ -103,6 +103,9 @@ align-items: center;
 width: 465;
 margin-left: 480px;
 }
+.row {
+    padding-top: 20px;
+}
 .h1 {
     padding-top: 20px;
      color: #555 !important;
@@ -169,6 +172,9 @@ h1::after {
     background-color: rgb(155, 152, 152);
     padding-bottom: 15px;
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/Logo\ JVR\ Rams.png);
+}
+.col-md-6.contact-info{
+    margin-top: -16px;
 }
 .vinyl img {
     padding: 10px 10px 10px 10px;
@@ -295,6 +301,10 @@ blockquote::after {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/headergray.png);
     background-position: center;
 }
+.Truni {
+margin-top: -99px;
+margin-left: 595px;
+}
 .bottomline4 {
     height: 100px;
     border: solid black;
@@ -316,7 +326,9 @@ blockquote::after {
         }
         .mjr {
             margin: 0%;
+            margin-right: 0%;
             padding: 0%;
+            margin-left: 0%;
         }
         .Ta {
            margin: 0%;
@@ -333,17 +345,41 @@ blockquote::after {
             padding: 0%;
             margin: 0%;
         }
+        .single.profile-pic.text-center {
+            margin-right: 0%;
+            margin-left: 0%;
+        }
+        .vinyl.img {
+            margin-right: 25px;
+            margin-left: -25px;
+            max-width: 90%;
+        }
+        .Truni {
+            margin-top: -99px;
+            margin-left: 360px;
+            display: block;
+            }
     Iframe {
     width: 130%;
     height: 90%;
-    margin-right: 20%;
-
     }
-}
+    .row1 p{
+margin-right: 150px;
+margin-left: -250px;
+display: block;
+    }
 
+}
+.Trun {
+    margin-left: 529px;
+    display: block;
+}
+.born {
+    height: 200px;
+    background-color: #efefef;
+}
 button {
-    padding-top: 70px;
-    padding-left: 400px;
+    padding-top: 78px;
     border: none;
 }
 #status.success{
@@ -368,12 +404,4 @@ button {
         opacity: 0;
         pointer-events: none;
     }
-}
-
-@media (max-device-width: 480px) {
-.row1 {
-    margin: 0%;
-    padding: 0%;
-    margin-left: 25%;
-}
 }
