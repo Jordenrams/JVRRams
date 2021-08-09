@@ -132,4 +132,21 @@ img.rams {
 }
 @media (max-device-width: 480px) {
 
+    .container {
+        display: inline-block;
+        text-align: center;
+    }
+    .col-md-7 {
+        margin-left: 50px;
+    }
+    .Rams {
+        height: 100%;
+    }
+    h2 {
+        text-align: center;
+    }
+    h2::after {
+        margin-left: 0px;
+    }
+
 }

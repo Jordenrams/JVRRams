@@ -133,10 +133,18 @@ a.btn.btn-primary:hover {
 }
 @media (max-device-width: 480px) {
 .Frame {
- width: 100%;
- margin: 0%;
- padding: 0%;
- margin-left: 10%;
-}
+ display: inline;
+ border: transparent;
 
+}
+#Framet {
+    display: block;
+}
+.Media {
+    display: inline;
+    text-align: center;
+}
+div.Kat.text-center {
+    display: inline;
+}
 }

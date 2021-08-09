@@ -319,6 +319,16 @@ margin-left: 595px;
     margin: 0%;
     padding: 0%;
         }
+        .col-md-6.contact-info {
+            margin-top: 65px;
+        }
+        div.col-md-6 {
+            margin-right: -25px;
+        }
+
+        .row1 {
+            margin-left: -2px;
+        }
     .Mem {
         display: block;
         margin: 0%;
@@ -355,19 +365,15 @@ margin-left: 595px;
             max-width: 90%;
         }
         .Truni {
-            margin-top: -99px;
-            margin-left: 360px;
-            display: block;
+            padding-top: -78px;
+            margin-left: 340px;
+          display: inline;
             }
     Iframe {
     width: 130%;
     height: 90%;
     }
-    .row1 p{
-margin-right: 150px;
-margin-left: -250px;
-display: block;
-    }
+  
 
 }
 .Trun {
@@ -379,7 +385,7 @@ display: block;
     background-color: #efefef;
 }
 button {
-    padding-top: 78px;
+    padding-top: 0px;
     border: none;
 }
 #status.success{
