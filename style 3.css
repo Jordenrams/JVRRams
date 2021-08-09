@@ -302,9 +302,10 @@ blockquote::after {
     background-position: center;
 }
 .Truni {
-margin-top: -99px;
-margin-left: 595px;
-}
+    margin-top:  -20px;
+    padding-left: 598px;
+    }
+
 .bottomline4 {
     height: 100px;
     border: solid black;
@@ -327,7 +328,12 @@ margin-left: 595px;
         }
 
         .row1 {
-            margin-left: -2px;
+            margin-left: 0px;
+            margin-right: 0px;
+            text-align: center;
+            font-size: small;
+            display: inline;
+            width: 0%;
         }
     .Mem {
         display: block;
@@ -365,9 +371,10 @@ margin-left: 595px;
             max-width: 90%;
         }
         .Truni {
-            padding-top: -78px;
-            margin-left: 340px;
-          display: inline;
+            padding-top: 10px;
+            margin-left: 0%;
+            padding-left: 70%;
+          display: flex;
             }
     Iframe {
     width: 130%;
@@ -376,16 +383,12 @@ margin-left: 595px;
   
 
 }
-.Trun {
-    margin-left: 529px;
-    display: block;
-}
+
 .born {
     height: 200px;
     background-color: #efefef;
 }
 button {
-    padding-top: 0px;
     border: none;
 }
 #status.success{

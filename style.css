@@ -53,6 +53,8 @@
     color: #efefef;
     font-size: 42px;
 }
+
+
 /*-----About-----*/
 #about {
     padding-top: 50px;
@@ -372,6 +374,7 @@ div.profile {
     background-color: rgb(20, 20, 20);
     width: 100%;
 }
+
 blockquote::before {
     content:'\201C';
     font-size: 50px;
@@ -460,5 +463,19 @@ div.single-price {
 margin-left: 15px;
 width: 94%;
 }
+h5 {
+    padding-bottom: -55px;
+    padding-top: 45px color transparent;
+    
+}
+.carousel-caption h5 {
+    font-size: 22px; }
 
+#promo p{
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    height: 80%;
+    
+}
 }
