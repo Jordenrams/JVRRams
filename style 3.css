@@ -320,6 +320,9 @@ blockquote::after {
     margin: 0%;
     padding: 0%;
         }
+        h1::after {
+            background-color: transparent;
+        }
         .col-md-6.contact-info {
             margin-top: 65px;
         }
@@ -331,9 +334,13 @@ blockquote::after {
             margin-left: 0px;
             margin-right: 0px;
             text-align: center;
-            font-size: small;
+            font-size: smaller;
             display: inline;
             width: 0%;
+        }
+        .row1 p {
+            margin-left: 5px;
+            margin-right: 5px;
         }
     .Mem {
         display: block;
@@ -373,7 +380,7 @@ blockquote::after {
         .Truni {
             padding-top: 10px;
             margin-left: 0%;
-            padding-left: 70%;
+            padding-left: 65%;
           display: flex;
             }
     Iframe {

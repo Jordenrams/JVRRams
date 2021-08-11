@@ -113,6 +113,7 @@ a.btn.btn-primary {
     font-size: 23px;
     display: inline-block;
     transition: 0.5s;
+    border-color: #555;
 }
 a.btn.btn-primary:hover {
     border-color: 1px solid #fff;
