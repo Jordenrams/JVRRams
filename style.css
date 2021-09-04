@@ -23,7 +23,6 @@
     float: right;
     text-align: left;
 }
-
 #nav-bar ul li a:hover{
     color: #000000!important;
 
@@ -278,6 +277,13 @@ select#item-options {
 }
 #donate span {
     font-size: 15px;
+}
+div.headerslider {
+    height: 0px;
+}
+a.navbar-brand img {
+    width: 140px;
+    height: 100px;
 }
 .content-price {
     display: inline;
