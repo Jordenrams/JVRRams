@@ -39,6 +39,26 @@
     font-weight: 600;
     font-size: 16px;
 }
+.news {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newa {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newt {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+}
+.Bosu {
+    display: flex;
+}
 /*----Slider----*/
 #slider {
     width: 100%;
@@ -360,6 +380,7 @@ a {
 .cheng {
     display: flex;
 }
+
 .profile h3 {
     font-size: 20px;
     margin-top: 15px;

@@ -148,6 +148,10 @@ h1 {
     text-align: center;
     
 }
+#PP {
+    padding-left: 10%;
+    padding-right: 10%;
+}
 h1::after {
     content: '';
     background: black;
@@ -420,4 +424,24 @@ button {
         opacity: 0;
         pointer-events: none;
     }
+}
+.news {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newa {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newt {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+}
+.Bosu {
+    display: flex;
 }

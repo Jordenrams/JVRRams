@@ -28,7 +28,26 @@
     float: right;
     text-align: left;
 }
-
+.news {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newa {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-right: 25px;
+}
+.newt {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+}
+.Bosu {
+    display: flex;
+}
 #nav-bar ul li a:hover{
     color: #000000!important;
 
