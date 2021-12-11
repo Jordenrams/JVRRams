@@ -76,6 +76,10 @@
    width: 80%; 
    object-fit: cover;
 }
+.classi {
+   display: center;
+   padding-left: 75%;
+}
 
 .col-md-7 {
     color: #555;
