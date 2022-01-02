@@ -15,7 +15,15 @@
 .cheng {
     display: flex;
 }
-    
+.news {
+    color: #efefef;
+}
+.newa {
+    color: #efefef;
+}
+.newt {
+    color: #efefef;
+}  
 
 .navbar-brand img {
     height: 40px;

@@ -18,6 +18,15 @@
 
 }
 .news {
+    color: #efefef;
+}
+.newa {
+    color: #efefef;
+}
+.newt {
+    color: #efefef;
+}
+.news {
     font-weight: 600;
     font-size: 16px;
     display: flex;

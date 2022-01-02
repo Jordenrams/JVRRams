@@ -12,6 +12,15 @@
     z-index: 10;
 
 }
+.news {
+    color: #efefef;
+}
+.newa {
+    color: #efefef;
+}
+.newt {
+    color: #efefef;
+}
 .cheng {
     display: flex;
 }
