@@ -54,6 +54,16 @@
     font-weight: 600;
     font-size: 16px;
 }
+.col-md-6 contact-info {
+    display: flex;
+}
+.row {
+    display: flex;
+    width: 110%;
+}
+.container {
+    display: flex;
+}
 
 /*---Get in Touch---*/
 #contact 
@@ -62,6 +72,7 @@
     padding-top: 40px;
     padding-bottom: 500px;
     color: #777;
+    width: 100%;
 }
 .contact-form {
     padding: 15px;
@@ -315,8 +326,8 @@ blockquote::after {
     background-position: center;
 }
 .Truni {
-    margin-top:  -20px;
-    padding-left: 598px;
+    margin-top:  120px;
+    padding-left: 530px;
     }
 
 .bottomline4 {
@@ -410,6 +421,11 @@ blockquote::after {
 }
 button {
     border: none;
+    margin: 0px;
+    padding-right: 4px;
+    padding-left: 4px;
+    background-color: black;
+    color: white;
 }
 #status.success{
     background-color: rgb(211, 250, 153);
