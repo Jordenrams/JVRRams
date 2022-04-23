@@ -186,6 +186,9 @@ img.rams {
             margin-left: 0%;
             width: 100%;
         }
+        .classi {
+            display: none;
+        }
 }
 .news {
     font-weight: 600;
