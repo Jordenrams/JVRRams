@@ -159,6 +159,45 @@ img.rams {
     h2::after {
         margin-left: 0px;
     }
+    .Social {
+        display: inline;
+    }
+    .Kat.text-center {
+        display: inline;
+    }
+    p {
+        text-align: center;
+    }
+    div.boss {
+        display: inline;
+    }
+    div.base {
+        display: inline;
+    }
+    .Boss {
+        display: block;
+        margin: 0%;
+        padding: 0%;
+        }
+        .Base {
+            display: block;
+            margin: 0%;
+            padding: 0%;
+            margin-left: 0%;
+            width: 100%;
+        }
+        .iframe {
+            margin: 0%;
+            padding: 0%;
+            margin-bottom: 5%;
+            margin-top: 5%;
+            text-align: center;
+        }
+    Iframe {
+    width: 100%;
+    height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
 
 }
 .news {
