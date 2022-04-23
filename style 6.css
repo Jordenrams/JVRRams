@@ -43,6 +43,13 @@
     font-size: 16px;
     display: flex;
 }
+.newo {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-left: 25px;
+    color: white
+}
 .Bosu {
     display: flex;
 }
@@ -143,6 +150,9 @@ a.rams:hover {
 #Itunes-2 {
     padding-top: 50px;
 }
+#Itunes-3 {
+        padding-top: 50px;
+    }
 .bottomline-2 {
     margin-top: 20px;
     height: 100px;
@@ -256,6 +266,24 @@ a.rams:hover {
                                             margin: 0%;
                                             padding: 0%;
                                                 }
+                                                #Itunes-1 {
+                                                    display: block;
+                                                    max-width: 480px;
+                                                    margin: 0%;
+                                                    padding: 0%;
+                                                        }
+                                                        #Itunes-2 {
+                                                            display: block;
+                                                            max-width: 480px;
+                                                            margin: 0%;
+                                                            padding: 0%;
+                                                                }
+                                                                #Itunes-3 {
+                                                                    display: block;
+                                                                    max-width: 480px;
+                                                                    margin: 0%;
+                                                                    padding: 0%;
+                                                                        }
         .Mainframe {
             display: block;
             margin: 0%;

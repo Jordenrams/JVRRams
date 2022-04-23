@@ -59,6 +59,13 @@
 .Bosu {
     display: flex;
 }
+.newo {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    padding-left: 25px;
+    color: white
+}
 /*----Slider----*/
 #slider {
     width: 100%;
