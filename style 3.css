@@ -328,6 +328,20 @@ blockquote::after {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/headergray.png);
     background-position: center;
 }
+.bottomline5 {
+    height: 100px;
+    border: solid black;
+    max-width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/headerspace.png);
+    background-position: center;
+}
+.bottomline6 {
+    height: 100px;
+    border: solid black;
+    max-width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/headergray.png);
+    background-position: center;
+}
 .Truni {
     margin-top:  120px;
     padding-left: 530px;

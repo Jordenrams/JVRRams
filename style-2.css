@@ -227,6 +227,22 @@ img.rams {
     padding-right: 5%;
     padding-left: 5%;
 }
+#Medium-4 {
+    display: flex;
+    text-align: center;
+}
+#Medium-3 {
+    display: flex;
+    text-align: center;
+}
+#Medium-2 {
+    display: flex;
+    text-align: center;
+}
+#Medium-1 {
+    display: flex;
+    text-align: center;
+}
 #Medium {
     display: flex;
     text-align: center;
@@ -324,6 +340,22 @@ img.rams {
     border: solid black;
     max-width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/headerspace.png);
+    background-position: center;
+}
+.bottomline-mid {
+    margin-top: 20px;
+    height: 100px;
+    border: solid black;
+    max-width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/headergray.png);
+    background-position: center;
+}
+.bottomline-midi {
+    margin-top: 20px;
+    height: 100px;
+    border: solid black;
+    max-width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/headergrass.png);
     background-position: center;
 }
 .bottomline {

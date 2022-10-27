@@ -204,6 +204,13 @@ a.rams:hover {
     background-image: linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/SiDieheader.png);
     background-position: center;
 }
+.bottomline5 {
+    height: 100px;
+    border: solid black;
+    max-width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/Header\ Yellow.png);
+    background-position: center;
+}
 /*------Text top-----*/
 #Social h1 {
     text-align: center;
