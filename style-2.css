@@ -147,8 +147,13 @@ img.rams {
         text-align: center;
     }
     .col-md-7 {
-        margin-left: 50px;
-    }
+        margin-left: 50px;}
+    .col-md-8 {
+    margin-left: 50px;}
+    
+    .col-md-9 {margin-left: 50px;}
+    .col-md-10 {margin-left: 50px;}
+    .col-md-11 {margin-left: 50px;}
     .Rams {
         height: 215px;
         width: 230px;
